@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0DC636C7-F77B-8AE2-ABBA-B52954FF5E81}</ProjectGuid>
+    <ProjectGuid>{67643F1F-5A6E-F708-1951-EC38A0610514}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -698,36 +698,36 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive-Tactics-Simulation-main/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/User/Downloads/Defensive-Tactics-Simulation-main/Defensive Tactics Game/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{51DB3C8A-0461-09EF-FEB9-0631D9B8484B}</Project>
+      <Project>{89A8BA1D-A610-8F02-EF3F-E81F76F3F8F6}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0DC636C7-F77B-8AE2-ABBA-B52954FF5E81}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "..\Defensive-Tactics-Simulation-main\Assembly-CSharp.csproj", "{0DC636C7-F77B-8AE2-ABBA-B52954FF5E81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{51DB3C8A-0461-09EF-FEB9-0631D9B8484B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "..\Defensive-Tactics-Simulation-main\Assembly-CSharp-firstpass.csproj", "{51DB3C8A-0461-09EF-FEB9-0631D9B8484B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{894D1378-9FD3-72B6-7B66-7A7BA8FB43ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "..\Defensive-Tactics-Simulation-main\Assembly-CSharp-Editor-firstpass.csproj", "{894D1378-9FD3-72B6-7B66-7A7BA8FB43ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B910CE-39ED-48EA-AB3C-53215E431612}
 	EndGlobalSection
 EndGlobal
